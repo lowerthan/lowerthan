@@ -1,24 +1,21 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# 장진성
+## 신입 개발자 입니다.
+- email : gaden7@naver.com
+- tel   : 010-9482-9644
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+### - 자기 자신에게 피드백을 주면서 성장해가는 개발자
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
-## Features
+## 학력 및 인적사항
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- 1999.02.26 년생
+
+- 경남 / 양산 / 양산남부고등학교 졸업
+- 신라대학교 중퇴
+- 군필
+- 2022/07/29 부로 웹 개발자 입문
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
