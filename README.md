@@ -42,6 +42,6 @@
 소모임 + 에브리타임 대동단결 프로젝트   https://github.com/lowerthan/TeamGreen</br>
 이커머스 쇼핑몰 클론 프로젝트 프론트엔드 https://github.com/lowerthan/green-shoppingf</br>
 이커머스 쇼핑몰 클론 프로젝트 백엔드    https://github.com/lowerthan/green-shopping</br>
-## notion
+## 노션주소
 https://amazing-gaura-684.notion.site/c8c6de724f31460281bdade109b97503</br>
 
